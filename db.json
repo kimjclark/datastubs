@@ -1,7 +1,7 @@
 {
   "accounts" : [
     {
-      "id": 0,
+      "id" : 0,
       "customerId" : "CUS100",
       "accountId" : "12345678",
       "type" : "Current",
