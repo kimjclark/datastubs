@@ -4,8 +4,8 @@
     "accountId" : "12345678",
     "type" : "Current",
     "status" : "",
-    "balance" : 543.74
-    "lastTransaction" : "2022-02-14T18:25:43.511Z"
+    "balance" : 543.74,
+    "lastTransaction" : "2022-02-14T18:25:43.511Z",
     "dateOpened" : "2011-01-01T19:23:12.837Z"
   },
   {
@@ -13,8 +13,8 @@
     "accountId" : "87654321",
     "type" : "Savings",
     "status" : "",
-    "balance" : 10437.43
-    "lastTransaction" : "2022-02-01T08:51:23.574Z"
+    "balance" : 10437.43,
+    "lastTransaction" : "2022-02-01T08:51:23.574Z",
     "dateOpened" : "2022-02-14T13:32:43.923Z"
-  },
+  }
 ]
