@@ -1,7 +1,8 @@
 {
   "accounts" : [
     {
-      "customerId" : "CUS100",
+      "id": 0,
+      customerId" : "CUS100",
       "accountId" : "12345678",
       "type" : "Current",
       "status" : "",
@@ -10,6 +11,7 @@
       "dateOpened" : "2011-01-01T19:23:12.837Z"
     },
     {
+      "id" : 1,
       "customerId" : "CUS101",
       "accountId" : "87654321",
       "type" : "Savings",
