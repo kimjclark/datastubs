@@ -12,13 +12,23 @@
     },
     {
       "id" : 1,
+      "customerId" : "CUS100",
+      "accountId" : "11223344",
+      "type" : "Savings",
+      "status" : "",
+      "balance" : 19834.43,
+      "lastTransaction" : "2020-05-T10:41:36.839Z",
+      "dateOpened" : "2015-09-11T15:22:47.934Z"
+    },
+    {
+      "id" : 1,
       "customerId" : "CUS101",
       "accountId" : "87654321",
       "type" : "Savings",
       "status" : "",
       "balance" : 10437.43,
-      "lastTransaction" : "2022-02-01T08:51:23.574Z",
-      "dateOpened" : "2022-02-14T13:32:43.923Z"
+      "lastTransaction" : "2021-07-01T08:51:23.574Z",
+      "dateOpened" : "2019-08-14T13:32:43.923Z"
     }
   ]
 }
