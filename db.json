@@ -2,7 +2,7 @@
   "accounts" : [
     {
       "id": 0,
-      customerId" : "CUS100",
+      "customerId" : "CUS100",
       "accountId" : "12345678",
       "type" : "Current",
       "status" : "",
