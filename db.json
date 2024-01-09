@@ -21,7 +21,7 @@
       "dateOpened" : "2015-09-11T15:22:47.934Z"
     },
     {
-      "id" : 1,
+      "id" : 2,
       "customerId" : "CUS101",
       "accountId" : "87654321",
       "type" : "Savings",
@@ -31,14 +31,14 @@
       "dateOpened" : "2019-08-14T13:32:43.923Z"
     },
     {
-      "id" : 1,
-      "customerId" : "CUS101",
-      "accountId" : "87654321",
-      "type" : "Savings",
+      "id" : 3,
+      "customerId" : "CUS102",
+      "accountId" : "49373957",
+      "type" : "Current",
       "status" : "",
-      "balance" : 10437.43,
-      "lastTransaction" : "2021-07-01T08:51:23.574Z",
-      "dateOpened" : "2019-08-14T13:32:43.923Z"
+      "balance" : 3094.03,
+      "lastTransaction" : "2021-07-05T08:51:23.574Z",
+      "dateOpened" : "2019-08-14T13:32:48.374Z"
     }
   ]
 }
